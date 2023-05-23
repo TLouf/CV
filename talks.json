@@ -1,0 +1,42 @@
+[
+  {
+    "title": "American cultural regions mapped through the lexical analysis of social media",
+    "authors": "T. Louf, B. Gonçalves,  J.J. Ramasco, D. Sánchez, J. Grieve",
+    "collection": "talks",
+    "type": "Talk",
+    "venue": "COMPILA satellite of the Conference on Complex Systems",
+    "venueurl": "https://compila2022.ifisc.uib-csic.es",
+    "date": "2022-10-20",
+    "location": "Palma, Spain"
+  },
+  {
+    "title": "Capturing the diversity of multilingual societies",
+    "authors": "T. Louf, D. Sánchez, J.J. Ramasco",
+    "collection": "talks",
+    "type": "Talk",
+    "venue": "Conference on Complex Systems",
+    "venueurl": "https://ccs2021.univ-lyon1.fr",
+    "date": "2021-10-29",
+    "location": "Lyon, France"
+  },
+  {
+    "title": "Capturing the diversity of multilingual societies",
+    "authors": "T. Louf, D. Sánchez, J.J. Ramasco",
+    "collection": "talks",
+    "type": "Talk",
+    "venue": "VII COMSOTEC Workshop",
+    "venueurl": "https://sites.google.com/view/comsotectgn22",
+    "date": "2022-04-01",
+    "location": "Tarragona, Spain"
+  },
+  {
+    "title": "Bilingual societies: from data to agent-based modeling",
+    "authors": "T. Louf, D. Sánchez, J.J. Ramasco",
+    "collection": "talks",
+    "type": "Talk",
+    "venue": "Computational Social Science satellite of the Conference on Complex Systems",
+    "venueurl": "https://sites.google.com/view/css-ccs20",
+    "date": "2020-12-09",
+    "location": "online"
+  }
+]

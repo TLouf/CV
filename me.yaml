@@ -1,0 +1,298 @@
+---
+references:
+- id: GanicDynamicNoise2020
+  author:
+    - family: Ganić
+      given: Emir
+    - family: Oosten
+      given: Nico
+      non-dropping-particle: van
+    - family: Meliveo
+      given: Luis
+    - family: Jeram
+      given: Sonja
+    - family: Louf
+      given: Thomas
+    - family: Ramasco
+      given: Jose J.
+  citation-key: GanicDynamicNoise2020
+  container-title: 10th SESAR Innovation Days
+  DOI: 10.5281/zenodo.5517304
+  issued:
+    - year: 2020
+      month: 12
+      day: 10
+  title: Dynamic noise maps for Ljubljana airport
+  type: paper-conference
+
+- id: LoufAlgoritmosAgrupamiento2023
+  author:
+    - family: Louf
+      given: Thomas
+    - family: Sánchez
+      given: David
+    - family: Miguel Franco
+      given: Ruth
+  citation-key: LoufAlgoritmosAgrupamiento2023
+  container-title: >-
+    Scripta manent. Diacronía del español, documentación archivística y
+    Humanidades digitales
+  event-place: New York, NY, USA
+  issued:
+    - literal: 2023, in press
+  language: es
+  publisher: Peter Lang
+  publisher-place: New York, NY, USA
+  title: >-
+    Algoritmos de Agrupamiento y Lingüística de Corpus: Ortografía y Léxico en
+    Documentos Mallorquines del Siglo XVIII.
+  type: chapter
+
+- id: LoufAmericanCultural2023
+  author:
+    - family: Louf
+      given: Thomas
+    - family: Gonçalves
+      given: Bruno
+    - family: Ramasco
+      given: José J.
+    - family: Sánchez
+      given: David
+    - family: Grieve
+      given: Jack
+  citation-key: LoufAmericanCultural2023
+  container-title: Humanities and Social Sciences Communications
+  container-title-short: Humanit Soc Sci Commun
+  DOI: 10.1057/s41599-023-01611-3
+  ISSN: 2662-9992
+  issue: '1'
+  issued:
+    - year: 2023
+      month: 3
+      day: 30
+  language: en
+  license: 2023 The Author(s)
+  page: 1-11
+  source: www.nature.com
+  title: >-
+    American cultural regions mapped through the lexical analysis of social
+    media
+  type: article-journal
+  volume: '10'
+
+- id: LoufCapturingDiversity2021
+  author:
+    - family: Louf
+      given: Thomas
+    - family: Sánchez
+      given: David
+    - family: Ramasco
+      given: José J.
+  citation-key: LoufCapturingDiversity2021
+  container-title: Physical Review Research
+  DOI: 10.1103/PhysRevResearch.3.043146
+  ISSN: 2643-1564
+  issue: '4'
+  issued:
+    - year: 2021
+      month: 11
+      day: 30
+  license: All rights reserved
+  page: '043146'
+  publisher: American Physical Society
+  title: Capturing the diversity of multilingual societies
+  type: article-journal
+  volume: '3'
+
+- id: LoufFrequencyDetected2023
+  accessed:
+    - year: 2023
+      month: 4
+      day: 14
+  author:
+    - family: Louf
+      given: Thomas
+  citation-key: LoufFrequencyDetected2023
+  DOI: 10.17605/OSF.IO/RSXUD
+  issued:
+    - year: 2023
+      month: 4
+      day: 14
+  language: en
+  publisher: OSF
+  source: osf.io
+  title: >-
+    Frequency of detected mistakes, MSOA activity and attributed residence of GB
+    Twitter users.
+  type: document
+  URL: https://osf.io/rsxud/
+
+- id: LoufMultilinganalytical2022
+  accessed:
+    - year: 2023
+      month: 2
+      day: 28
+  author:
+    - family: Louf
+      given: Thomas
+  citation-key: LoufMultilinganalytical2022
+  DOI: 10.6084/m9.figshare.20627235
+  issued:
+    - year: 2022
+  title: <span class="nocase">multiling-analytical</span>
+  type: webpage
+  URL: https://github.com/TLouf/multiling-analytical
+
+- id: LoufMultilingtwitter2022
+  accessed:
+    - year: 2023
+      month: 2
+      day: 28
+  author:
+    - family: Louf
+      given: Thomas
+  citation-key: LoufMultilingtwitter2022
+  DOI: 10.6084/m9.figshare.20627238
+  issued:
+    - year: 2022
+  title: <span class="nocase">multiling-twitter</span>
+  type: webpage
+  URL: https://github.com/TLouf/multiling-twitter
+
+- id: LoufNotSticking2023
+  author:
+    - family: Louf
+      given: Thomas
+    - family: Sánchez
+      given: David
+    - family: Ramasco
+      given: José J.
+    - family: Karsai
+      given: Márton
+  citation-key: LoufNotSticking2023
+  genre: To be submitted
+  issued:
+    - year: 2023
+  title: >-
+    Not sticking by the rules: An empirical and theoretical study of the social
+    stratification of standard English
+  type: manuscript
+
+- id: LoufSesling2023
+  accessed:
+    - year: 2023
+      month: 4
+      day: 14
+  author:
+    - family: Louf
+      given: Thomas
+  citation-key: LoufSesling2023
+  DOI: 10.17605/OSF.IO/C86GE
+  issued:
+    - year: 2023
+      month: 4
+      day: 14
+  language: en
+  publisher: OSF
+  title: <span class="nocase">ses-ling</span>
+  type: webpage
+  URL: https://github.com/TLouf/ses-ling
+
+- id: LoufSeslinganalytical2023
+  accessed:
+    - year: 2023
+      month: 4
+      day: 14
+  author:
+    - family: Louf
+      given: Thomas
+  citation-key: LoufSeslinganalytical2023
+  DOI: 10.17605/OSF.IO/AHM6J
+  issued:
+    - year: 2023
+      month: 4
+      day: 14
+  language: en
+  publisher: OSF
+  title: <span class="nocase">ses-ling-analytical</span>
+  type: webpage
+  URL: https://github.com/TLouf/ses-ling-analytical
+
+- id: LoufSpatialDistributions2021
+  accessed:
+    - year: 2023
+      month: 2
+      day: 28
+  author:
+    - family: Louf
+      given: Thomas
+  citation-key: LoufSpatialDistributions2021
+  DOI: 10.6084/m9.figshare.14339321
+  issued:
+    - year: 2021
+  license: Creative Commons Attribution 4.0 International
+  publisher: figshare
+  source: DOI.org (Datacite)
+  title: Spatial distributions of languages on Twitter
+  type: document
+  URL: >-
+    https://figshare.com/articles/dataset/Spatial_distributions_of_languages_extracted_from_Twitter/14339321
+
+- id: LoufWordCounts2023
+  accessed:
+    - year: 2023
+      month: 2
+      day: 28
+  author:
+    - family: Louf
+      given: Thomas
+  citation-key: LoufWordCounts2023
+  DOI: 10.6084/m9.figshare.20630919.v1
+  issued:
+    - year: 2023
+  license: Creative Commons Attribution 4.0 International
+  page: 3036152360 Bytes
+  publisher: figshare
+  source: DOI.org (Datacite)
+  title: Word counts per US county in geo-tagged Tweets posted between 2015 and 2021
+  type: dataset
+  URL: >-
+    https://figshare.com/articles/dataset/Word_counts_per_US_county_in_geo-tagged_Tweets_posted_between_2015_and_2021/20630919
+
+- id: LoufWordsuse2023
+  accessed:
+    - year: 2023
+      month: 2
+      day: 28
+  author:
+    - family: Louf
+      given: Thomas
+  citation-key: LoufWordsuse2023
+  DOI: 10.6084/m9.figshare.20627034.v1
+  issued:
+    - year: 2023
+  page: 32265302 Bytes
+  title: <span class="nocase">words-use</span>
+  type: webpage
+  URL: https://github.com/TLouf/words-use
+
+- id: LoufWordsuseFigshare2023
+  accessed:
+    - year: 2023
+      month: 2
+      day: 28
+  author:
+    - family: Louf
+      given: Thomas
+  citation-key: LoufWordsuseFigshare2023
+  DOI: 10.6084/m9.figshare.20627034.v1
+  issued:
+    - year: 2023
+  license: MIT License
+  page: 32265302 Bytes
+  publisher: figshare
+  source: DOI.org (Datacite)
+  title: <span class="nocase">words-use</span> figshare
+  type: software
+  URL: https://github.com/TLouf/words-use
+...
