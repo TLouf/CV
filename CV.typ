@@ -21,18 +21,14 @@
     gutter: 5%,
     align: horizon,
     table(
-      rows: (20pt, 6pt, 20pt),
+      rows: (26pt, 6pt, 20pt),
       stroke: 0pt,
       inset: 0pt,
-      row-gutter: 10pt,
-      align: center + bottom,
-      rect(stroke: 0pt, width: 100%)[
-        #text(26pt, weight: "bold", fill: white)[Thomas Louf]
-      ],
+      gutter: 10pt,
+      align: (center + bottom, center + horizon, center + top),
+      text(26pt, weight: "bold", fill: white)[Thomas Louf],
       line(length: 100%, stroke: (thickness: 3pt, paint: pale_green)),
-      rect(stroke: 0pt, width: 100%)[
-        #text(20pt, weight: "bold", fill: white)[PhD candidate]
-      ],
+      text(20pt, weight: "bold", fill: white)[PhD candidate],
     ),
     contact_cell[
       #text(12pt, fill: white)[
