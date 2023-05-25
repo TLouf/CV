@@ -47,7 +47,6 @@
           #link("mailto:tlouf@pm.me")[#mail_icon tlouf\@pm.me]
           \ #link("https://twitter.com/t_louf")[#twitter_icon t_louf]
           \ #link("https://fosstodon.org/@tlouf")[#mastodon_icon tlouf\@fosstodon.org]
-          \ #phone_icon +34 698 92 68 99
         ]
       ]
     ]
