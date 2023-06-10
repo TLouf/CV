@@ -38,5 +38,15 @@
     "venueurl": "https://sites.google.com/view/css-ccs20",
     "date": "2020-12-09",
     "location": "online"
+  },
+  {
+    "title": "Not sticking by the rules: how the use of standard language varies with socio-economic status and social mixing",
+    "authors": "T. Louf, D. Sánchez, J.J. Ramasco, M. Karsai",
+    "collection": "talks",
+    "type": "Talk",
+    "venue": "International Conference on Computational Social Science (IC2S2)",
+    "venueurl": "https://www.ic2s2.org",
+    "date": "2023-07-20",
+    "location": "Copenhagen, Denmark"
   }
 ]

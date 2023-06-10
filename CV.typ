@@ -116,6 +116,8 @@ CEA Irfu, Saclay, France
 #bibliography("me.bib", title: none)
 
 
+#v(1fr)
+
 
 #cv_section("Talks")
 #for talk in json("talks.json").sorted(key: it => it.date).rev() {
@@ -130,7 +132,11 @@ CEA Irfu, Saclay, France
   ]
 }
 
+#v(1fr)
 
+
+// don't break page within short sections
+#block(breakable: false)[
 #cv_section("Technical skills")
 
 === Programming (Python)
@@ -145,8 +151,6 @@ Fluent in French, English and Spanish. Proficient with LaTeX, Inkscape, GIMP.
 
 
 
-// don't break page within short sections
-#block(breakable: false)[
 #cv_section("Academic service")
 
 Served as a reviewer for Physica A and the Journal of Linguistic Geography.
