@@ -59,7 +59,7 @@
 #dated_heading([=== PhD programme in Complex Systems], [Nov 2019 - Sep 2023])
 #v(1em)
 - Institute for Cross-Disciplinary Physics and Complex Systems (IFISC), Palma, Spain
-  \ With José J. Ramasco and David Sánchez as supervisors of my thesis, entitled "Complexity in sociolinguistics: exploring the interplay between geography, culture and the social fabric.".
+  \ With José J. Ramasco and David Sánchez as supervisors of my thesis, entitled "Complexity in sociolinguistics: exploring the interplay between geography, culture and the social fabric".
   \ María de Maeztu Unit of Excellence PhD position.
 - #dated_heading(
   [Department for Network and Data Science (DNDS), CEU, Vienna, Austria],
