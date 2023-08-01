@@ -238,6 +238,34 @@ references:
   URL: >-
     https://figshare.com/articles/dataset/Spatial_distributions_of_languages_extracted_from_Twitter/14339321
 
+- id: LoufWhenDialects2023
+  accessed:
+    - year: 2023
+      month: 8
+      day: 1
+  author:
+    - family: Louf
+      given: Thomas
+    - family: Ramasco
+      given: José J.
+    - family: Sánchez
+      given: David
+    - family: Karsai
+      given: Márton
+  citation-key: LoufWhenDialects2023
+  DOI: 10.48550/arXiv.2307.10016
+  issued:
+    - year: 2023
+      month: 7
+      day: 19
+  number: arXiv:2307.10016
+  publisher: arXiv
+  source: arXiv.org
+  title: 'When Dialects Collide: How Socioeconomic Mixing Affects Language Use'
+  title-short: When Dialects Collide
+  type: article
+  URL: http://arxiv.org/abs/2307.10016
+
 - id: LoufWordCounts2023
   accessed:
     - year: 2023
