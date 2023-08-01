@@ -153,8 +153,10 @@ Fluent in French, English and Spanish. Proficient with LaTeX, Inkscape, GIMP.
 
 #cv_section("Academic service")
 
-Served as a reviewer for Physica A and the Journal of Linguistic Geography.
-\ Helped the organization of the Conference on Complex Systems 2022 in Palma.
+- Elected member of the advisory board of the #link("http://yrcss.cssociety.org/")[young researchers of the Complex Systems Society], 2023-2025
+- Co-organiser of the #link("https://sites.google.com/view/css-ccs23/home")[Computational Social Science satellite of the Conference on Complex Systems], starting 2023
+- Served as a reviewer for Physica A and the Journal of Linguistic Geography.
+- Helped the organization of the Conference on Complex Systems 2022 in Palma.
 
 
 
