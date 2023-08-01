@@ -108,7 +108,7 @@ CEA Irfu, Saclay, France
 #for work in yaml("me.yaml").at("references").sorted(
   key: w => str(w.issued.at(0).at("year", default: w.issued.at(0).at("literal", default: "")))
 ).rev() {
-  if work.type in ("chapter", "book", "article-journal", "paper-conference") {
+  if work.type in ("chapter", "book", "article", "article-journal", "paper-conference") {
     par(leading: 0pt)[
     #text(0pt, fill: white)[#cite(work.id)]]
   }
