@@ -56,7 +56,7 @@
 
 #cv_section("Education")
 
-#dated_heading([=== PhD programme in Complex Systems], [Nov 2019 - Sep 2023])
+#dated_heading([=== PhD programme in Physics of Complex Systems], [Nov 2019 - Sep 2023])
 #v(1em)
 - Institute for Cross-Disciplinary Physics and Complex Systems (IFISC), Palma, Spain
   \ With José J. Ramasco and David Sánchez as supervisors of my thesis, entitled "Complexity in sociolinguistics: exploring the interplay between geography, culture and the social fabric".
