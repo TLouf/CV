@@ -147,7 +147,7 @@ I publish all code used in my projects in GitHub repositories, develop small pac
 Version control with git, Linux proficiency, documentation writing with Sphinx, Rust (beginner).
 
 === Communication
-Fluent in French, English and Spanish. Proficient with LaTeX, Inkscape, GIMP.
+Fluent in French, English and Spanish. Proficient with LaTeX, Typst, Inkscape, GIMP.
 
 
 
