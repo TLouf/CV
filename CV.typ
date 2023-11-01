@@ -110,10 +110,10 @@ CEA Irfu, Saclay, France
 ).rev() {
   if work.type in ("chapter", "book", "article", "article-journal", "paper-conference") {
     par(leading: 0pt)[
-    #text(0pt, fill: white)[#cite(work.id)]]
+    #text(0pt, fill: white)[#cite(label(work.id))]]
   }
 }
-#bibliography("me.bib", title: none)
+#bibliography("me.bib", title: none, style: "ieee")
 
 
 #v(1fr)
