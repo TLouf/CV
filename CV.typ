@@ -28,7 +28,7 @@
       align: (center + bottom, center + horizon, center + top),
       text(26pt, weight: "bold", fill: white)[Thomas Louf],
       line(length: 100%, stroke: (thickness: 3pt, paint: pale_green)),
-      text(20pt, weight: "bold", fill: white)[PhD candidate],
+      text(20pt, weight: "bold", fill: white)[Postdoc researcher],
     ),
     contact_cell[
       #text(12pt, fill: white)[
@@ -52,6 +52,27 @@
     ]
   )
 ]
+
+
+#cv_section("Past experiences")
+
+#dated_heading([=== Postdoctoral researcher], [Oct 2023 - Now])
+
+Fondazione Bruno Kessler, Trento, Italy
+\ I was hired to work on the AI4Trust European project to better understand and tackle multimodal online mis/disinformation.
+
+
+#dated_heading([=== Data science intern], [Jan 2018 - Jul 2018])
+
+HousingAnywhere, Rotterdam, Netherlands
+\ I analyzed operational data from a large SQL database to provide insights to other teams and also carried out machine learning projects at an exploratory phase.
+
+
+#dated_heading([=== Research intern], [May 2017 - Oct 2017])
+CEA Irfu, Saclay, France
+\ I investigated the potential of Micromegas gaseous detectors for X-ray spectro-polarimetry. I performed experiments to test its performance and analysed data collected at the SOLEIL synchrotron to calibrate a detector.
+
+#v(1fr)
 
 
 #cv_section("Education")
@@ -80,22 +101,6 @@ observation of matter. Last year at Imperial College as part of a joint degree p
 
 #dated_heading([=== Preparatory classes to Grandes Écoles exams], [Sep 2013 - Sep 2015])
 Collège Stanislas, Paris, France
-
-#v(1fr)
-
-#cv_section("Past experiences")
-
-#dated_heading([=== Data science intern], [Jan 2018 - Jul 2018])
-
-HousingAnywhere, Rotterdam, Netherlands
-\ I analyzed operational data from a large SQL database to provide insights to other teams and also carried out machine learning projects at an exploratory phase.
-
-
-#dated_heading([=== Research intern], [May 2017 - Oct 2017])
-CEA Irfu, Saclay, France
-\ I investigated the potential of Micromegas gaseous detectors for X-ray spectro-polarimetry. I performed experiments to test its performance and analysed data collected at the SOLEIL synchrotron to calibrate a detector.
-
-#v(1fr)
 
 
 
