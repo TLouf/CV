@@ -159,25 +159,6 @@ references:
   type: webpage
   URL: https://github.com/TLouf/multiling-twitter
 
-- id: LoufNotSticking2023
-  author:
-    - family: Louf
-      given: Thomas
-    - family: Sánchez
-      given: David
-    - family: Ramasco
-      given: José J.
-    - family: Karsai
-      given: Márton
-  citation-key: LoufNotSticking2023
-  genre: To be submitted
-  issued:
-    - year: 2023
-  title: >-
-    Not sticking by the rules: An empirical and theoretical study of the social
-    stratification of standard English
-  type: manuscript
-
 - id: LoufSesling2023
   accessed:
     - year: 2023
