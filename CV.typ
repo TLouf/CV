@@ -67,7 +67,6 @@ HousingAnywhere, Rotterdam, Netherlands
 CEA Irfu, Saclay, France
 \ I investigated the potential of Micromegas gaseous detectors for X-ray spectro-polarimetry. I performed experiments to test its performance and analysed data collected at the SOLEIL synchrotron to calibrate a detector.
 
-#v(1fr)
 
 
 #cv_section("Education")
@@ -99,9 +98,6 @@ Collège Stanislas, Paris, France
 
 
 
-#pagebreak()
-
-
 
 #cv_section("Publications")
 #v(-1em)
@@ -130,7 +126,6 @@ Collège Stanislas, Paris, France
   ]
 }
 
-#v(1fr)
 
 
 // don't break page within short sections

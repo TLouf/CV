@@ -7,6 +7,7 @@
 
 
 #let cv_section(title) = {
+  v(1.2em)
   block({
     // Display a backdrop rectangle.
     move(dx: -1.5%, dy: 0.5%, rect(
@@ -14,7 +15,7 @@
       inset: 0pt,
       outset: (left: 100pt),
       move(
-        dx: 1.5%, dy: -0.5%, 
+        dx: 1.5%, dy: -0.5%,
         rect(height: 2em, fill: dark_blue, stroke: 0pt, outset: (left: 100pt, right: 10pt))[
             #text(fill: white)[== #title]
         ]
