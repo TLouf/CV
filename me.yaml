@@ -1,5 +1,45 @@
 ---
 references:
+- id: BaqirActiveEngagement2023
+  accessed:
+    - year: 2025
+      month: 1
+      day: 11
+  author:
+    - family: Baqir
+      given: Anees
+    - family: Chen
+      given: Yijing
+    - family: Diaz-Diaz
+      given: Fernando
+    - family: Kiyak
+      given: Sercan
+    - family: Louf
+      given: Thomas
+    - family: Morini
+      given: Virginia
+    - family: Pansanella
+      given: Valentina
+    - family: Torricelli
+      given: Maddalena
+    - family: Galeazzi
+      given: Alessandro
+  citation-key: BaqirActiveEngagement2023
+  DOI: 10.48550/arXiv.2306.17538
+  issued:
+    - year: 2023
+      month: 6
+      day: 30
+  number: arXiv:2306.17538
+  publisher: arXiv
+  source: arXiv.org
+  title: >-
+    Beyond Active Engagement: The Significance of Lurkers in a Polarized Twitter
+    Debate
+  title-short: Beyond Active Engagement
+  type: article
+  URL: http://arxiv.org/abs/2306.17538
+
 - id: GanicDynamicNoise2020
   author:
     - family: Ganić
@@ -35,11 +75,11 @@ references:
       given: Ruth
   citation-key: LoufAlgoritmosAgrupamiento2023
   container-title: >-
-    Scripta manent. Diacronía del español, documentación archivística y
-    Humanidades digitales
+    Scripta manent. Historia del español, documentación archivística y
+    humanidades digitales
   event-place: New York, NY, USA
   issued:
-    - literal: 2023, in press
+    - year: 2023
   language: es
   publisher: Peter Lang
   publisher-place: New York, NY, USA
@@ -104,121 +144,6 @@ references:
   type: article-journal
   volume: '3'
 
-- id: LoufFrequencyDetected2023
-  accessed:
-    - year: 2023
-      month: 4
-      day: 14
-  author:
-    - family: Louf
-      given: Thomas
-  citation-key: LoufFrequencyDetected2023
-  DOI: 10.17605/OSF.IO/RSXUD
-  issued:
-    - year: 2023
-      month: 4
-      day: 14
-  language: en
-  publisher: OSF
-  source: osf.io
-  title: >-
-    Frequency of detected mistakes, MSOA activity and attributed residence of GB
-    Twitter users.
-  type: document
-  URL: https://osf.io/rsxud/
-
-- id: LoufMultilinganalytical2022
-  accessed:
-    - year: 2023
-      month: 2
-      day: 28
-  author:
-    - family: Louf
-      given: Thomas
-  citation-key: LoufMultilinganalytical2022
-  DOI: 10.6084/m9.figshare.20627235
-  issued:
-    - year: 2022
-  title: <span class="nocase">multiling-analytical</span>
-  type: webpage
-  URL: https://github.com/TLouf/multiling-analytical
-
-- id: LoufMultilingtwitter2022
-  accessed:
-    - year: 2023
-      month: 2
-      day: 28
-  author:
-    - family: Louf
-      given: Thomas
-  citation-key: LoufMultilingtwitter2022
-  DOI: 10.6084/m9.figshare.20627238
-  issued:
-    - year: 2022
-  title: <span class="nocase">multiling-twitter</span>
-  type: webpage
-  URL: https://github.com/TLouf/multiling-twitter
-
-- id: LoufSesling2023
-  accessed:
-    - year: 2023
-      month: 4
-      day: 14
-  author:
-    - family: Louf
-      given: Thomas
-  citation-key: LoufSesling2023
-  DOI: 10.17605/OSF.IO/C86GE
-  issued:
-    - year: 2023
-      month: 4
-      day: 14
-  language: en
-  publisher: OSF
-  title: <span class="nocase">ses-ling</span>
-  type: webpage
-  URL: https://github.com/TLouf/ses-ling
-
-- id: LoufSeslinganalytical2023
-  accessed:
-    - year: 2023
-      month: 4
-      day: 14
-  author:
-    - family: Louf
-      given: Thomas
-  citation-key: LoufSeslinganalytical2023
-  DOI: 10.17605/OSF.IO/AHM6J
-  issued:
-    - year: 2023
-      month: 4
-      day: 14
-  language: en
-  publisher: OSF
-  title: <span class="nocase">ses-ling-analytical</span>
-  type: webpage
-  URL: https://github.com/TLouf/ses-ling-analytical
-
-- id: LoufSpatialDistributions2021
-  accessed:
-    - year: 2023
-      month: 2
-      day: 28
-  author:
-    - family: Louf
-      given: Thomas
-  citation-key: LoufSpatialDistributions2021
-  DOI: 10.6084/m9.figshare.14339321
-  issued:
-    - year: 2021
-  license: Creative Commons Attribution 4.0 International
-  publisher: figshare
-  source: DOI.org (Datacite)
-  title: Spatial distributions of languages on Twitter
-  type: document
-  URL: >-
-    https://figshare.com/articles/dataset/Spatial_distributions_of_languages_extracted_from_Twitter/14339321
-
 - id: LoufWhenDialects2023
   accessed:
     - year: 2023
@@ -246,62 +171,4 @@ references:
   title-short: When Dialects Collide
   type: article
   URL: http://arxiv.org/abs/2307.10016
-
-- id: LoufWordCounts2023
-  accessed:
-    - year: 2023
-      month: 2
-      day: 28
-  author:
-    - family: Louf
-      given: Thomas
-  citation-key: LoufWordCounts2023
-  DOI: 10.6084/m9.figshare.20630919.v1
-  issued:
-    - year: 2023
-  license: Creative Commons Attribution 4.0 International
-  page: 3036152360 Bytes
-  publisher: figshare
-  source: DOI.org (Datacite)
-  title: Word counts per US county in geo-tagged Tweets posted between 2015 and 2021
-  type: dataset
-  URL: >-
-    https://figshare.com/articles/dataset/Word_counts_per_US_county_in_geo-tagged_Tweets_posted_between_2015_and_2021/20630919
-
-- id: LoufWordsuse2023
-  accessed:
-    - year: 2023
-      month: 2
-      day: 28
-  author:
-    - family: Louf
-      given: Thomas
-  citation-key: LoufWordsuse2023
-  DOI: 10.6084/m9.figshare.20627034.v1
-  issued:
-    - year: 2023
-  page: 32265302 Bytes
-  title: <span class="nocase">words-use</span>
-  type: webpage
-  URL: https://github.com/TLouf/words-use
-
-- id: LoufWordsuseFigshare2023
-  accessed:
-    - year: 2023
-      month: 2
-      day: 28
-  author:
-    - family: Louf
-      given: Thomas
-  citation-key: LoufWordsuseFigshare2023
-  DOI: 10.6084/m9.figshare.20627034.v1
-  issued:
-    - year: 2023
-  license: MIT License
-  page: 32265302 Bytes
-  publisher: figshare
-  source: DOI.org (Datacite)
-  title: <span class="nocase">words-use</span> figshare
-  type: software
-  URL: https://github.com/TLouf/words-use
 ...

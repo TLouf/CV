@@ -113,10 +113,8 @@ Collège Stanislas, Paris, France
     #text(0pt, fill: white)[#cite(label(work.id))]]
   }
 }
-#bibliography("me.bib", title: none, style: "ieee")
+#bibliography("me.bib", title: none, style: "nature")
 
-
-#v(1fr)
 
 
 #cv_section("Talks")
