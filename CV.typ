@@ -122,9 +122,9 @@ Collège Stanislas, Paris, France
 #cv_section("Talks")
 #for talk in json("talks.json").sorted(key: it => it.date).rev() {
   if "venueurl" in talk {
-    link(talk.venueurl)[=== #talk.venue #talk.date.slice(0, 4)]
+    link(talk.venueurl)[=== #talk.venue]
   } else [
-    === #talk.venue #talk.date.slice(0, 4)
+    === #talk.venue
   ]
   [
     #talk.title

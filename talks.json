@@ -4,7 +4,7 @@
     "authors": "T. Louf, B. Gonçalves,  J.J. Ramasco, D. Sánchez, J. Grieve",
     "collection": "talks",
     "type": "Talk",
-    "venue": "COMPILA satellite of the Conference on Complex Systems",
+    "venue": "COMPILA satellite of the Conference on Complex Systems 2022",
     "venueurl": "https://compila2022.ifisc.uib-csic.es",
     "date": "2022-10-20",
     "location": "Palma, Spain"
@@ -14,7 +14,7 @@
     "authors": "T. Louf, D. Sánchez, J.J. Ramasco",
     "collection": "talks",
     "type": "Talk",
-    "venue": "Conference on Complex Systems",
+    "venue": "Conference on Complex Systems 2021",
     "venueurl": "https://ccs2021.univ-lyon1.fr",
     "date": "2021-10-29",
     "location": "Lyon, France"
@@ -24,7 +24,7 @@
     "authors": "T. Louf, D. Sánchez, J.J. Ramasco",
     "collection": "talks",
     "type": "Talk",
-    "venue": "VII COMSOTEC Workshop",
+    "venue": "VII COMSOTEC Workshop 2022",
     "venueurl": "https://sites.google.com/view/comsotectgn22",
     "date": "2022-04-01",
     "location": "Tarragona, Spain"
@@ -34,7 +34,7 @@
     "authors": "T. Louf, D. Sánchez, J.J. Ramasco",
     "collection": "talks",
     "type": "Talk",
-    "venue": "Computational Social Science satellite of the Conference on Complex Systems",
+    "venue": "Computational Social Science satellite of the Conference on Complex Systems 2020",
     "venueurl": "https://sites.google.com/view/css-ccs20",
     "date": "2020-12-09",
     "location": "online"
@@ -44,9 +44,26 @@
     "authors": "T. Louf, D. Sánchez, J.J. Ramasco, M. Karsai",
     "collection": "talks",
     "type": "Talk",
-    "venue": "International Conference on Computational Social Science (IC2S2)",
-    "venueurl": "https://www.ic2s2.org",
+    "venue": "International Conference on Computational Social Science (IC2S2) 2023",
     "date": "2023-07-20",
     "location": "Copenhagen, Denmark"
+  },
+  {
+    "title": "When Dialects Collide: How Socioeconomic Mixing Affects Language Use",
+    "authors": "T. Louf, D. Sánchez, J.J. Ramasco, M. Karsai",
+    "collection": "talks",
+    "type": "Talk",
+    "venue": "Conference on Complex Systems 2024",
+    "date": "2024-09-04",
+    "location": "University of Exeter, UK"
+  },
+  {
+    "title": "When Dialects Collide: How Socioeconomic Mixing Affects Language Use",
+    "authors": "T. Louf, D. Sánchez, J.J. Ramasco, M. Karsai",
+    "collection": "talks",
+    "type": "Seminar",
+    "venue": "Colloquium of the Centre for Human | Data | Society",
+    "date": "2024-12-17",
+    "location": "University of Konstanz, Germany"
   }
 ]
