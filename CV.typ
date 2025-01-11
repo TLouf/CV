@@ -145,13 +145,13 @@ I publish all code used in my projects in GitHub repositories, develop small pac
 Version control with git, Linux proficiency, documentation writing with Sphinx, Rust (beginner).
 
 === Communication
-Fluent in French, English and Spanish. Proficient with LaTeX, Typst, Inkscape, GIMP.
+Fluent in French, English, Spanish, and advanced level in Italian. Proficient with LaTeX, Typst, Inkscape, GIMP.
 
 
 
 #cv_section("Academic service")
 
-- Elected member of the advisory board of the #link("http://yrcss.cssociety.org/")[young researchers of the Complex Systems Society], 2023-2025
+- Elected member of the Advisory Board of the #link("http://yrcss.cssociety.org/")[young researchers of the Complex Systems Society] (2023), and subsequently Chair of the Board (2024).
 - Co-organiser of the #link("https://sites.google.com/view/css-ccs23/home")[Computational Social Science satellite of the Conference on Complex Systems], starting 2023
 - Served as a reviewer for Physica A and the Journal of Linguistic Geography.
 - Helped the organization of the Conference on Complex Systems 2022 in Palma.
