@@ -29,9 +29,9 @@
       #text(12pt, fill: white)[
         #par(leading: 5pt)[
           === Profiles
-          #link("https://github.com/TLouf")[#gh_icon TLouf]
-          \ #link("https://tlouf.github.io")[#link_icon tlouf.github.io]
-          \ #link("https://orcid.org/0000-0002-8785-8063")[#orcid_icon 0000-0002-8785-8063]
+          #link("https://github.com/TLouf")[#fa-github() TLouf]
+          \ #link("https://tlouf.github.io")[#fa-link() tlouf.github.io]
+          \ #link("https://orcid.org/0000-0002-8785-8063")[#fa-orcid() 0000-0002-8785-8063]
         ]
       ]
     ],
@@ -39,9 +39,9 @@
       #text(12pt, fill: white)[
         #par(leading: 5pt)[
           === Contact
-          #link("mailto:tlouf@pm.me")[#mail_icon tlouf\@pm.me]
-          \ #link("https://twitter.com/t_louf")[#twitter_icon t_louf]
-          \ #link("https://fosstodon.org/@tlouf")[#mastodon_icon tlouf\@fosstodon.org]
+          #link("mailto:tlouf@pm.me")[#fa-envelope(solid: true) tlouf\@pm.me]
+          \ #link("https://bsky.app/profile/tlouf.bsky.social/")[#fa-bluesky() tlouf]
+          \ #link("https://fosstodon.org/@tlouf")[#fa-mastodon() tlouf\@fosstodon.org]
         ]
       ]
     ]
@@ -141,7 +141,7 @@ Collège Stanislas, Paris, France
 
 === Programming (Python)
 (Geospatial) data processing, (interactive) visualization, parallel computing on a server cluster, natural language processing, machine learning.
-I publish all code used in my projects in GitHub repositories, develop small packages (querier, spylt) and contribute occasionally to libraries like #link("https://github.com/geopandas/geopandas/pulls?q=author%3Atlouf")[GeoPandas#super_ext_link_icon], #link("https://github.com/pandas-dev/pandas/pulls?q=author%3Atlouf")[pandas#super_ext_link_icon] and #link("https://github.com/RaRe-Technologies/gensim/pulls?q=author%3Atlouf")[Gensim#super_ext_link_icon].
+I publish all code used in my projects in GitHub repositories, develop small packages (querier, spylt) and contribute occasionally to libraries such as #link("https://github.com/geopandas/geopandas/pulls?q=author%3Atlouf")[GeoPandas#super[#fa-external-link()]], #link("https://github.com/pandas-dev/pandas/pulls?q=author%3Atlouf")[pandas#super[#fa-external-link()]], #link("https://github.com/networkx/networkx/pulls?q=author%3Atlouf")[networkx#super[#fa-external-link()]] and #link("https://github.com/RaRe-Technologies/gensim/pulls?q=author%3Atlouf")[Gensim#super[#fa-external-link()]].
 
 === Programming (others)
 Version control with git, Linux proficiency, documentation writing with Sphinx, Rust (beginner).
