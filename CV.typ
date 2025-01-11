@@ -5,7 +5,7 @@
 #set text(12pt, font: "CMU Sans serif")
 
 #rect(
-  width: 100%, height: 30mm, fill: dark_blue, stroke: (thickness: 5pt, paint: pale_green),
+  width: 100%, height: 30mm, fill: primary, stroke: (thickness: 5pt, paint: tertiary),
   outset: (x: 100pt, top: 100pt),
   inset: (y: -14pt)
 )[
@@ -22,7 +22,7 @@
       gutter: 10pt,
       align: (center + bottom, center + horizon, center + top),
       text(26pt, weight: "bold", fill: white)[Thomas Louf],
-      line(length: 100%, stroke: (thickness: 3pt, paint: pale_green)),
+      line(length: 100%, stroke: (thickness: 3pt, paint: tertiary)),
       text(20pt, weight: "bold", fill: white)[Postdoc researcher],
     ),
     contact_cell[
