@@ -1,11 +1,6 @@
 #import "template.typ": *
 #set page(
-  margin: (left: 1.4cm, right: 1.4cm, top: 1.4cm, bottom: 1.4cm),
-  background: place(left + top, rect(
-    fill: light_blue,
-    height: 100%,
-    width: 11.5mm,
-  ))
+  margin: (left: 1.2cm, right: 1.2cm, top: 1.4cm, bottom: 1.4cm),
 )
 #set text(12pt, font: "CMU Sans serif")
 
