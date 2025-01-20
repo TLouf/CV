@@ -1,9 +1,8 @@
 #import "@preview/fontawesome:0.5.0": *
 
 #let primary = rgb("#355070")
-#let secondary = rgb("#6d597a")
-#let tertiary = rgb("#eaac8b")
-#let tertiary = rgb("#b56576")
+#let secondary = rgb("#5DD9C1")
+#let tertiary = rgb("#C1F7DC")
 
 #let cv_section(title) = {
   v(1.2em)
