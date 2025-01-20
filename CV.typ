@@ -53,14 +53,16 @@
 
 #dated_heading([=== Postdoctoral researcher], [Oct 2023 - Now])
 
-Fondazione Bruno Kessler, Trento, Italy
-\ I was hired to work on the AI4Trust European project to better understand and tackle multimodal online mis/disinformation.
+Complex Human Behaviour Lab, Fondazione Bruno Kessler, Trento, Italy
+\ I work on the AI4TRUST European project, on the collection of Telegram data and the analysis of its network of channels to study the diffusion of misinformation. I am also involved in the modelling of change in mobility behaviour for the Bologna Digital Twin project. I have supervised one MSc thesis and am co-supervising a PhD thesis. I also manage the lab's website and its server, for which I implemented a #link("https://coder.com/")[Coder] development envrionment and a #link("https://www.netdata.cloud/")[Netdata] monitoring platform.
 
 
 #dated_heading([=== Data science intern], [Jan 2018 - Jul 2018])
 
 HousingAnywhere, Rotterdam, Netherlands
-\ I analyzed operational data from a large SQL database to provide insights to other teams and also carried out machine learning projects at an exploratory phase.
+\ I analyzed operational data from a large SQL database to provide insights to other teams.
+// \ I handled the technical challenges linked to the transition to a Snowflake data lake, and met with representatives from the company
+I also carried out machine learning projects, such as a tool to forecast the company's revenue, taking into account seasonality and growth.
 
 
 #dated_heading([=== Research intern], [May 2017 - Oct 2017])
@@ -71,7 +73,7 @@ CEA Irfu, Saclay, France
 
 #cv_section("Education")
 
-#dated_heading([=== PhD programme in Physics of Complex Systems], [Nov 2019 - Sep 2023])
+#dated_heading([=== PhD in Physics of Complex Systems], [Nov 2019 - Sep 2023])
 #v(1em)
 - Institute for Cross-Disciplinary Physics and Complex Systems (IFISC), Palma, Spain
   \ With José J. Ramasco and David Sánchez as supervisors of my thesis, entitled "Complexity in sociolinguistics: exploring the interplay between geography, culture and the social fabric".
@@ -85,7 +87,7 @@ CEA Irfu, Saclay, France
 #dated_heading([=== MSc in Physics], [Sep 2018 - Sep 2019])
 Imperial College, London, UK
 \ 12-month taught programme with selected courses in Complexity & Networks, Computational Physics, Atmospheric Physics, General Relativity (among others).
-\ Thesis with Dr. Tim Evans entitled "An axiomatic study of spatial interaction models".
+\ Thesis with Tim Evans entitled "An axiomatic study of spatial interaction models".
 
 #dated_heading([=== Diplôme d'Ingénieur], [Sep 2015 - Sep 2019])
 Ecole Centrale de Lyon, France
@@ -121,17 +123,18 @@ Collège Stanislas, Paris, France
     === #talk.venue
   ]
   [
+    #let date = toml.decode("date = " + talk.date).date
     #talk.title
-    \ #talk.authors
+    \ #date.display("[month repr:long] [year]"), #talk.location
   ]
 }
 
 
 
-// don't break page within short sections
-#block(breakable: false)[
 #cv_section("Technical skills")
 
+// don't break page within short sections
+// #block(breakable: false)[
 === Programming (Python)
 (Geospatial) data processing, (interactive) visualization, parallel computing on a server cluster, natural language processing, machine learning.
 I publish all code used in my projects in GitHub repositories, develop small packages (querier, spylt) and contribute occasionally to libraries such as #link("https://github.com/geopandas/geopandas/pulls?q=author%3Atlouf")[GeoPandas#super[#fa-external-link()]], #link("https://github.com/pandas-dev/pandas/pulls?q=author%3Atlouf")[pandas#super[#fa-external-link()]], #link("https://github.com/networkx/networkx/pulls?q=author%3Atlouf")[networkx#super[#fa-external-link()]] and #link("https://github.com/RaRe-Technologies/gensim/pulls?q=author%3Atlouf")[Gensim#super[#fa-external-link()]].
@@ -146,7 +149,7 @@ Fluent in French, English, Spanish, and advanced level in Italian. Proficient wi
 
 #cv_section("Academic service")
 
-- Elected member of the Advisory Board of the #link("http://yrcss.cssociety.org/")[young researchers of the Complex Systems Society] (2023), and subsequently Chair of the Board (2024).
+- Elected member of the Advisory Board of the #link("http://yrcss.cssociety.org/")[young researchers of the Complex Systems Society] (yrCSS) in 2023, and subsequently Chair of the Board in 2024.
 - Co-organiser of the #link("https://sites.google.com/view/css-ccs23/home")[Computational Social Science satellite of the Conference on Complex Systems], starting 2023
 - Served as a reviewer for Physica A and the Journal of Linguistic Geography.
 - Helped the organization of the Conference on Complex Systems 2022 in Palma.
@@ -157,6 +160,7 @@ Fluent in French, English, Spanish, and advanced level in Italian. Proficient wi
 
 - Dr. José J. Ramasco (PhD supervisor), IFISC, #link("mailto:jramasco@ifisc.uib-csic.es")
 - Prof. David Sánchez (PhD supervisor), IFISC, #link("mailto:david.sanchez@uib.es")
-- Dr. Márton Karsai (collaborator), CEU DNDS, #link("mailto:karsaim@ceu.edu")
+// - Dr. Márton Karsai (collaborator), CEU DNDS, #link("mailto:karsaim@ceu.edu")
+- Dr. Riccardo Gallotti (head of lab), CHuB Lab, FBK, #link("mailto:rgallotti@fbk.eu")
 
-]
+// ]
