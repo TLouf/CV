@@ -91,8 +91,7 @@ Imperial College, London, UK
 
 #dated_heading([=== Diplôme d'Ingénieur], [Sep 2015 - Sep 2019])
 Ecole Centrale de Lyon, France
-\ Broad engineering training with selected courses in quantum physics, nuclear engineering and
-observation of matter. Last year at Imperial College as part of a joint degree programme.
+\ Broad engineering training with selected courses in quantum physics, nuclear engineering and observation of matter. Last year at Imperial College as part of a joint degree programme.
 
 
 #dated_heading([=== Preparatory classes to Grandes Écoles exams], [Sep 2013 - Sep 2015])
@@ -102,11 +101,11 @@ Collège Stanislas, Paris, France
 
 
 #cv_section("Publications")
-#v(-1em)
+#v(-6em)
 #for work in yaml("me.yaml").at("references").sorted(
-  key: w => str(w.issued.at(0).at("year", default: w.issued.at(0).at("literal", default: "")))
+  key: w => str(w.at("issued", default: ""))
 ).rev() {
-  if work.type in ("chapter", "book", "article", "article-journal", "paper-conference") {
+  if work.at("type", default: "misc") in ("chapter", "book", "article", "article-journal", "paper-conference") {
     par(leading: 0pt)[
     #text(0pt, fill: white)[#cite(label(work.id))]]
   }

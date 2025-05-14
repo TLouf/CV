@@ -1,174 +1,239 @@
----
+nocite: "[@*]"
 references:
-- id: BaqirActiveEngagement2023
-  accessed:
-    - year: 2025
-      month: 1
-      day: 11
+- accessed: 2025-04-02
   author:
-    - family: Baqir
-      given: Anees
-    - family: Chen
-      given: Yijing
-    - family: Diaz-Diaz
-      given: Fernando
-    - family: Kiyak
-      given: Sercan
-    - family: Louf
-      given: Thomas
-    - family: Morini
-      given: Virginia
-    - family: Pansanella
-      given: Valentina
-    - family: Torricelli
-      given: Maddalena
-    - family: Galeazzi
-      given: Alessandro
-  citation-key: BaqirActiveEngagement2023
-  DOI: 10.48550/arXiv.2306.17538
-  issued:
-    - year: 2023
-      month: 6
-      day: 30
-  number: arXiv:2306.17538
-  publisher: arXiv
-  source: arXiv.org
-  title: >-
-    Beyond Active Engagement: The Significance of Lurkers in a Polarized Twitter
-    Debate
-  title-short: Beyond Active Engagement
-  type: article
-  URL: http://arxiv.org/abs/2306.17538
-
-- id: GanicDynamicNoise2020
-  author:
-    - family: Ganić
-      given: Emir
-    - family: Oosten
-      given: Nico
-      non-dropping-particle: van
-    - family: Meliveo
-      given: Luis
-    - family: Jeram
-      given: Sonja
-    - family: Louf
-      given: Thomas
-    - family: Ramasco
-      given: Jose J.
-  citation-key: GanicDynamicNoise2020
+  - family: Baqir
+    given: Anees
+  - family: Chen
+    given: Yijing
+  - family: Diaz-Diaz
+    given: Fernando
+  - family: Kiyak
+    given: Sercan
+  - family: Louf
+    given: Thomas
+  - family: Morini
+    given: Virginia
+  - family: Pansanella
+    given: Valentina
+  - family: Torricelli
+    given: Maddalena
+  - family: Galeazzi
+    given: Alessandro
+  container-title: Scientific Reports
+  container-title-short: Sci Rep
+  doi: 10.1038/s41598-025-88117-x
+  id: BaqirUnveilingDrivers2025
+  issn: 2045-2322
+  issue: 1
+  issued: 2025-02-10
+  language: en-US
+  page: 4906
+  publisher: Nature Publishing Group
+  title: Unveiling the drivers of active participation in social media
+    discourse
+  type: article-journal
+  url: "https://www.nature.com/articles/s41598-025-88117-x"
+  volume: 15
+- author:
+  - family: Ganić
+    given: Emir
+  - family: Oosten
+    given: Nico
+    non-dropping-particle: van
+  - family: Meliveo
+    given: Luis
+  - family: Jeram
+    given: Sonja
+  - family: Louf
+    given: Thomas
+  - family: Ramasco
+    given: Jose J.
   container-title: 10th SESAR Innovation Days
-  DOI: 10.5281/zenodo.5517304
-  issued:
-    - year: 2020
-      month: 12
-      day: 10
+  doi: 10.5281/zenodo.5517304
+  id: GanicDynamicNoise2020
+  issued: 2020-12-10
   title: Dynamic noise maps for Ljubljana airport
   type: paper-conference
-
-- id: LoufAlgoritmosAgrupamiento2023
-  author:
-    - family: Louf
-      given: Thomas
-    - family: Sánchez
-      given: David
-    - family: Miguel Franco
-      given: Ruth
-  citation-key: LoufAlgoritmosAgrupamiento2023
-  container-title: >-
-    Scripta manent. Historia del español, documentación archivística y
-    humanidades digitales
-  event-place: New York, NY, USA
-  issued:
-    - year: 2023
-  language: es
+- author:
+  - family: Louf
+    given: Thomas
+  - family: Sánchez
+    given: David
+  - family: Miguel Franco
+    given: Ruth
+  container-title: Scripta manent. Historia del español, documentación
+    archivística y humanidades digitales
+  id: LoufAlgoritmosAgrupamiento2023
+  issued: 2023
+  language: es-ES
   publisher: Peter Lang
   publisher-place: New York, NY, USA
-  title: >-
-    Algoritmos de Agrupamiento y Lingüística de Corpus: Ortografía y Léxico en
-    Documentos Mallorquines del Siglo XVIII.
+  title: "Algoritmos de Agrupamiento y Lingüística de Corpus: Ortografía
+    y Léxico en Documentos Mallorquines del Siglo XVIII."
+  title-short: Algoritmos de Agrupamiento y Lingüística de Corpus
   type: chapter
-
-- id: LoufAmericanCultural2023
-  author:
-    - family: Louf
-      given: Thomas
-    - family: Gonçalves
-      given: Bruno
-    - family: Ramasco
-      given: José J.
-    - family: Sánchez
-      given: David
-    - family: Grieve
-      given: Jack
-  citation-key: LoufAmericanCultural2023
+- author:
+  - family: Louf
+    given: Thomas
+  - family: Gonçalves
+    given: Bruno
+  - family: Ramasco
+    given: José J.
+  - family: Sánchez
+    given: David
+  - family: Grieve
+    given: Jack
   container-title: Humanities and Social Sciences Communications
   container-title-short: Humanit Soc Sci Commun
-  DOI: 10.1057/s41599-023-01611-3
-  ISSN: 2662-9992
-  issue: '1'
-  issued:
-    - year: 2023
-      month: 3
-      day: 30
-  language: en
-  license: 2023 The Author(s)
+  doi: 10.1057/s41599-023-01611-3
+  id: LoufAmericanCultural2023
+  issn: 2662-9992
+  issue: 1
+  issued: 2023-03-30
+  language: en-US
   page: 1-11
-  source: www.nature.com
-  title: >-
-    American cultural regions mapped through the lexical analysis of social
-    media
+  title: American cultural regions mapped through the lexical analysis
+    of social media
   type: article-journal
-  volume: '10'
-
-- id: LoufCapturingDiversity2021
-  author:
-    - family: Louf
-      given: Thomas
-    - family: Sánchez
-      given: David
-    - family: Ramasco
-      given: José J.
-  citation-key: LoufCapturingDiversity2021
+  volume: 10
+- author:
+  - family: Louf
+    given: Thomas
+  - family: Sánchez
+    given: David
+  - family: Ramasco
+    given: José J.
   container-title: Physical Review Research
-  DOI: 10.1103/PhysRevResearch.3.043146
-  ISSN: 2643-1564
-  issue: '4'
-  issued:
-    - year: 2021
-      month: 11
-      day: 30
-  license: All rights reserved
-  page: '043146'
+  doi: 10.1103/PhysRevResearch.3.043146
+  id: LoufCapturingDiversity2021
+  issn: 2643-1564
+  issue: 4
+  issued: 2021-11-30
+  page: 043146
   publisher: American Physical Society
   title: Capturing the diversity of multilingual societies
   type: article-journal
-  volume: '3'
-
-- id: LoufWhenDialects2023
-  accessed:
-    - year: 2023
-      month: 8
-      day: 1
+  volume: 3
+- accessed: 2023-04-14
   author:
-    - family: Louf
-      given: Thomas
-    - family: Ramasco
-      given: José J.
-    - family: Sánchez
-      given: David
-    - family: Karsai
-      given: Márton
-  citation-key: LoufWhenDialects2023
-  DOI: 10.48550/arXiv.2307.10016
-  issued:
-    - year: 2023
-      month: 7
-      day: 19
-  number: arXiv:2307.10016
-  publisher: arXiv
-  source: arXiv.org
-  title: 'When Dialects Collide: How Socioeconomic Mixing Affects Language Use'
+  - family: Louf
+    given: Thomas
+  doi: 10.17605/OSF.IO/RSXUD
+  id: LoufFrequencyDetected2023
+  issued: 2023-04-14
+  language: en-US
+  publisher: OSF
+  title: Frequency of detected mistakes, MSOA activity and attributed
+    residence of GB Twitter users.
+  url: "https://osf.io/rsxud/"
+- accessed: 2023-02-28
+  author:
+  - family: Louf
+    given: Thomas
+  doi: 10.6084/m9.figshare.20627235
+  id: LoufMultilinganalytical2022
+  issued: 2022
+  title: "[multiling-analytical]{.nocase}"
+  type: webpage
+  url: "https://github.com/TLouf/multiling-analytical"
+- accessed: 2023-02-28
+  author:
+  - family: Louf
+    given: Thomas
+  doi: 10.6084/m9.figshare.20627238
+  id: LoufMultilingtwitter2022
+  issued: 2022
+  title: "[multiling-twitter]{.nocase}"
+  type: webpage
+  url: "https://github.com/TLouf/multiling-twitter"
+- accessed: 2023-04-14
+  author:
+  - family: Louf
+    given: Thomas
+  doi: 10.17605/OSF.IO/C86GE
+  id: LoufSesling2023
+  issued: 2023-04-14
+  language: en-US
+  publisher: OSF
+  title: "[ses-ling]{.nocase}"
+  type: webpage
+  url: "https://github.com/TLouf/ses-ling"
+- accessed: 2023-04-14
+  author:
+  - family: Louf
+    given: Thomas
+  doi: 10.17605/OSF.IO/AHM6J
+  id: LoufSeslinganalytical2023
+  issued: 2023-04-14
+  language: en-US
+  publisher: OSF
+  title: "[ses-ling-analytical]{.nocase}"
+  type: webpage
+  url: "https://github.com/TLouf/ses-ling-analytical"
+- accessed: 2023-02-28
+  author:
+  - family: Louf
+    given: Thomas
+  doi: 10.6084/m9.figshare.14339321
+  id: LoufSpatialDistributions2021
+  issued: 2021
+  publisher: figshare
+  title: Spatial distributions of languages on Twitter
+  url: "https://figshare.com/articles/dataset/Spatial_distributions_of_languages_extracted_from_Twitter/14339321"
+- accessed: 2023-08-01
+  author:
+  - family: Louf
+    given: Thomas
+  - family: Ramasco
+    given: José J.
+  - family: Sánchez
+    given: David
+  - family: Karsai
+    given: Márton
+  doi: 10.48550/arXiv.2307.10016
+  id: LoufWhenDialects2023
+  issued: 2023-07-19
+  status: pre-published
+  title: "When Dialects Collide: How Socioeconomic Mixing Affects
+    Language Use"
   title-short: When Dialects Collide
-  type: article
-  URL: http://arxiv.org/abs/2307.10016
-...
+  type: webpage
+  url: "http://arxiv.org/abs/2307.10016"
+- accessed: 2023-02-28
+  author:
+  - family: Louf
+    given: Thomas
+  doi: 10.6084/m9.figshare.20630919.v1
+  id: LoufWordCounts2023
+  issued: 2023
+  page: 3036152360 Bytes
+  publisher: figshare
+  title: Word counts per US county in geo-tagged Tweets posted between
+    2015 and 2021
+  type: dataset
+  url: "https://figshare.com/articles/dataset/Word_counts_per_US_county_in_geo-tagged_Tweets_posted_between_2015_and_2021/20630919"
+- accessed: 2023-02-28
+  author:
+  - family: Louf
+    given: Thomas
+  doi: 10.6084/m9.figshare.20627034.v1
+  id: LoufWordsuse2023
+  issued: 2023
+  page: 32265302 Bytes
+  title: "[words-use]{.nocase}"
+  type: webpage
+  url: "https://github.com/TLouf/words-use"
+- accessed: 2023-02-28
+  author:
+  - family: Louf
+    given: Thomas
+  doi: 10.6084/m9.figshare.20627034.v1
+  id: LoufWordsuseFigshare2023
+  issued: 2023
+  page: 32265302 Bytes
+  publisher: figshare
+  title: "[words-use]{.nocase} figshare"
+  type: software
+  url: "https://github.com/TLouf/words-use"
+
