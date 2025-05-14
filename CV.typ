@@ -27,8 +27,8 @@
     ),
     contact_cell[
       #text(12pt, fill: white)[
+        === Profiles
         #par(leading: 5pt)[
-          === Profiles
           #link("https://github.com/TLouf")[#fa-github() TLouf]
           \ #link("https://tlouf.github.io")[#fa-link() tlouf.github.io]
           \ #link("https://orcid.org/0000-0002-8785-8063")[#fa-orcid() 0000-0002-8785-8063]
@@ -37,8 +37,8 @@
     ],
     contact_cell[
       #text(12pt, fill: white)[
+        === Contact
         #par(leading: 5pt)[
-          === Contact
           #link("mailto:tlouf@pm.me")[#fa-envelope(solid: true) tlouf\@pm.me]
           \ #link("https://bsky.app/profile/tlouf.bsky.social/")[#fa-bluesky() tlouf]
           \ #link("https://fosstodon.org/@tlouf")[#fa-mastodon() tlouf\@fosstodon.org]
@@ -123,7 +123,7 @@ Collège Stanislas, Paris, France
     === #talk.venue
   ]
   [
-    #let date = toml.decode("date = " + talk.date).date
+    #let date = toml(bytes("date = " + talk.date)).date
     #talk.title
     \ #date.display("[month repr:long] [year]"), #talk.location
   ]
