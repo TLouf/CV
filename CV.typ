@@ -49,32 +49,9 @@
 ]
 
 
-#cv_section("Past experiences")
-
-#dated_heading([=== Postdoctoral researcher], [Oct 2023 - Now])
-
-Complex Human Behaviour Lab, Fondazione Bruno Kessler, Trento, Italy
-\ I work on the AI4TRUST European project, on the collection of Telegram data and the analysis of its network of channels to study the diffusion of misinformation. I am also involved in the modelling of change in mobility behaviour for the Bologna Digital Twin project. I have supervised one MSc thesis and am co-supervising a PhD thesis. I also manage the lab's website and its server, for which I implemented a #link("https://coder.com/")[Coder] development envrionment and a #link("https://www.netdata.cloud/")[Netdata] monitoring platform.
-
-
-#dated_heading([=== Data science intern], [Jan 2018 - Jul 2018])
-
-HousingAnywhere, Rotterdam, Netherlands
-\ I analyzed operational data from a large SQL database to provide insights to other teams.
-// \ I handled the technical challenges linked to the transition to a Snowflake data lake, and met with representatives from the company
-I also carried out machine learning projects, such as a tool to forecast the company's revenue, taking into account seasonality and growth.
-
-
-#dated_heading([=== Research intern], [May 2017 - Oct 2017])
-CEA Irfu, Saclay, France
-\ I investigated the potential of Micromegas gaseous detectors for X-ray spectro-polarimetry. I performed experiments to test its performance and analysed data collected at the SOLEIL synchrotron to calibrate a detector.
-
-
-
 #cv_section("Education")
 
 #dated_heading([=== PhD in Physics of Complex Systems], [Nov 2019 - Sep 2023])
-#v(1em)
 - Institute for Cross-Disciplinary Physics and Complex Systems (IFISC), Palma, Spain
   \ With José J. Ramasco and David Sánchez as supervisors of my thesis, entitled "Complexity in sociolinguistics: exploring the interplay between geography, culture and the social fabric".
   \ María de Maeztu Unit of Excellence PhD position.
@@ -97,6 +74,37 @@ Ecole Centrale de Lyon, France
 #dated_heading([=== Preparatory classes to Grandes Écoles exams], [Sep 2013 - Sep 2015])
 Collège Stanislas, Paris, France
 
+
+#v(1fr)
+
+#cv_section("Research employment")
+
+#dated_heading([=== Postdoctoral researcher], [Oct 2023 - Now])
+
+Complex Human Behaviour Lab, Fondazione Bruno Kessler, Trento, Italy
+\ I work on the AI4TRUST European project, on the collection of Telegram data and the analysis of its network of channels to study the diffusion of misinformation. I am also involved in the modelling of change in mobility behaviour for the Bologna Digital Twin project. I have supervised one MSc thesis and am co-supervising a PhD thesis. I also manage the lab's website and its server, for which I implemented a #link("https://coder.com/")[Coder] development envrionment and a #link("https://www.netdata.cloud/")[Netdata] monitoring platform.
+
+
+#v(1fr)
+
+// // don't break page within short sections
+#block(breakable: false)[
+
+#cv_section("Other work experiences")
+
+#dated_heading([=== Data science intern], [Jan 2018 - Jul 2018])
+
+HousingAnywhere, Rotterdam, Netherlands
+\ I analyzed operational data from a large SQL database to provide insights to other teams.
+// \ I handled the technical challenges linked to the transition to a Snowflake data lake, and met with representatives from the company
+I also carried out machine learning projects, such as a tool to forecast the company's revenue, taking into account seasonality and growth.
+
+
+#dated_heading([=== Research intern], [May 2017 - Oct 2017])
+CEA Irfu, Saclay, France
+\ I investigated the potential of Micromegas gaseous detectors for X-ray spectro-polarimetry. I performed experiments to test its performance and analysed data collected at the SOLEIL synchrotron to calibrate a detector.
+
+]
 
 
 
@@ -128,6 +136,18 @@ Collège Stanislas, Paris, France
   ]
 }
 
+#cv_section("Supervision and teaching")
+
+- Teacher of _Foundations of Algorithms in Python_ for the MSc in Data Science, University of Trento, in July every year since 2024 (18 hours, 3 ECTS each). Course openly available as interactive Jupyter notebooks published as a website: #link("https://tlouf.github.io/Py4DataSci-course")[tlouf.github.io/Py4DataSci-course].
+- Supervisor of the MSc thesis "Analyzing and modelling the temporal network of Telegram's chats". Defended by Aurora Vindimian at the Department of Mathematics, University of Trento (2024).
+- Co-supervisor for the PhD thesis of Veronica Orsanigo, together with Dr. Riccardo Gallotti. Defense expected in 2026-2027, at the Department of Information Engineering and Computer Science of the University of Trento.
+
+
+#cv_section("Funding")
+
+- Seal of Excellence for an MSCA Postdoctoral Fellowship application (2024).
+- Joint mobility grant (4000€) from Santander - University of the Balearic Islands to fund a 4-month research stay at the Central European University of Vienna (2022).
+
 
 
 #cv_section("Technical skills")
@@ -149,7 +169,7 @@ Fluent in French, English, Spanish, and advanced level in Italian. Proficient wi
 #cv_section("Academic service")
 
 - Elected member of the Advisory Board of the #link("http://yrcss.cssociety.org/")[young researchers of the Complex Systems Society] (yrCSS) in 2023, and subsequently Chair of the Board in 2024.
-- Co-organiser of the #link("https://sites.google.com/view/css-ccs23/home")[Computational Social Science satellite of the Conference on Complex Systems], starting 2023
+- Co-organiser of the #link("https://sites.google.com/view/css-ccs23/home")[Computational Social Science satellite of the Conference on Complex Systems], yearly, from 2023.
 - Served as a reviewer for Physica A and the Journal of Linguistic Geography.
 - Helped the organization of the Conference on Complex Systems 2022 in Palma.
 
@@ -159,7 +179,7 @@ Fluent in French, English, Spanish, and advanced level in Italian. Proficient wi
 
 - Dr. José J. Ramasco (PhD supervisor), IFISC, #link("mailto:jramasco@ifisc.uib-csic.es")
 - Prof. David Sánchez (PhD supervisor), IFISC, #link("mailto:david.sanchez@uib.es")
-// - Dr. Márton Karsai (collaborator), CEU DNDS, #link("mailto:karsaim@ceu.edu")
+- Dr. Márton Karsai (collaborator), CEU DNDS, #link("mailto:karsaim@ceu.edu")
 - Dr. Riccardo Gallotti (head of lab), CHuB Lab, FBK, #link("mailto:rgallotti@fbk.eu")
 
 // ]
