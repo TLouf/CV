@@ -79,7 +79,12 @@ Collège Stanislas, Paris, France
 
 #cv_section("Research employment")
 
-#dated_heading([=== Postdoctoral researcher], [Oct 2023 - Now])
+#dated_heading([=== Assistant professor], [Sep 2025 - now])
+
+Mathematics department, Universidad Carlos III de Madrid, Spain
+
+
+#dated_heading([=== Postdoctoral researcher], [Oct 2023 - Aug 2025])
 
 Complex Human Behaviour Lab, Fondazione Bruno Kessler, Trento, Italy
 \ I work on the AI4TRUST European project, on the collection of Telegram data and the analysis of its network of channels to study the diffusion of misinformation. I am also involved in the modelling of change in mobility behaviour for the Bologna Digital Twin project. I have supervised one MSc thesis and am co-supervising a PhD thesis. I also manage the lab's website and its server, for which I implemented a #link("https://coder.com/")[Coder] development envrionment and a #link("https://www.netdata.cloud/")[Netdata] monitoring platform.
