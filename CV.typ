@@ -144,7 +144,7 @@ CEA Irfu, Saclay, France
 
 #cv_section("Supervision and teaching")
 
-- Teached _Foundations of Algorithms in Python_ for the MSc in Data Science, University of Trento, in July every year since 2024 (18 hours, 3 ECTS each). Course openly available as interactive Jupyter notebooks published as a website: #link("https://tlouf.github.io/Py4DataSci-course")[tlouf.github.io/Py4DataSci-course].
+- Taught _Foundations of Algorithms in Python_ for the MSc in Data Science, University of Trento, in July every year since 2024 (18 hours, 3 ECTS each). Course openly available as interactive Jupyter notebooks published as a website: #link("https://tlouf.github.io/Py4DataSci-course")[tlouf.github.io/Py4DataSci-course].
 - Supervised the MSc thesis "Analyzing and modelling the temporal network of Telegram's chats". Defended by Aurora Vindimian at the Department of Mathematics, University of Trento (2024).
 - Co-supervises the PhD thesis of Veronica Orsanigo, together with Dr. Riccardo Gallotti. Defense expected in 2026-2027, at the Department of Information Engineering and Computer Science of the University of Trento.
 
