@@ -65,5 +65,23 @@
     "venue": "Colloquium of the Centre for Human | Data | Society",
     "date": "2024-12-17",
     "location": "University of Konstanz, Germany"
+  },
+  {
+    "title": "Uncovering the structure and dynamics of information flow on the Telegram network",
+    "authors": "T. Louf, A. Vindimian, R. Gallotti",
+    "collection": "talks",
+    "type": "Talk",
+    "venue": "CSS French Local Chapter Conference on Complex Systems",
+    "date": "2025-06-25",
+    "location": "Sorbonne University, Paris, France"
+  },
+  {
+    "title": "Uncovering the structure and dynamics of information flow on the Telegram network",
+    "authors": "T. Louf, A. Vindimian, R. Gallotti",
+    "collection": "talks",
+    "type": "Talk",
+    "venue": "Conference on Complex Systems 2025",
+    "date": "2025-09-02",
+    "location": "University of Siena, Italy"
   }
 ]
