@@ -36,9 +36,9 @@ references:
 - author:
   - family: Ganić
     given: Emir
-  - family: Oosten
+  - dropping-particle: van
+    family: Oosten
     given: Nico
-    non-dropping-particle: van
   - family: Meliveo
     given: Luis
   - family: Jeram
@@ -182,7 +182,7 @@ references:
   id: LoufWhenDialects2025
   issn: 2193-1127
   issue: 1, 1
-  issued: 2025-12
+  issued: 2025-07-10
   language: en-US
   page: 1-21
   publisher: SpringerOpen
