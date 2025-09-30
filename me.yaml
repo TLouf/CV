@@ -1,7 +1,6 @@
 nocite: "[@*]"
 references:
-- accessed: 2025-04-02
-  author:
+- author:
   - family: Baqir
     given: Anees
   - family: Chen
@@ -33,7 +32,6 @@ references:
   title: Unveiling the drivers of active participation in social media
     discourse
   type: article-journal
-  url: "https://www.nature.com/articles/s41598-025-88117-x"
   volume: 15
 - author:
   - family: Ganić
@@ -115,8 +113,7 @@ references:
   title: Capturing the diversity of multilingual societies
   type: article-journal
   volume: 3
-- accessed: 2023-04-14
-  author:
+- author:
   - family: Louf
     given: Thomas
   doi: 10.17605/OSF.IO/RSXUD
@@ -126,9 +123,7 @@ references:
   publisher: OSF
   title: Frequency of detected mistakes, MSOA activity and attributed
     residence of GB Twitter users.
-  url: "https://osf.io/rsxud/"
-- accessed: 2023-02-28
-  author:
+- author:
   - family: Louf
     given: Thomas
   doi: 10.6084/m9.figshare.20627235
@@ -136,9 +131,7 @@ references:
   issued: 2022
   title: "[multiling-analytical]{.nocase}"
   type: webpage
-  url: "https://github.com/TLouf/multiling-analytical"
-- accessed: 2023-02-28
-  author:
+- author:
   - family: Louf
     given: Thomas
   doi: 10.6084/m9.figshare.20627238
@@ -146,9 +139,7 @@ references:
   issued: 2022
   title: "[multiling-twitter]{.nocase}"
   type: webpage
-  url: "https://github.com/TLouf/multiling-twitter"
-- accessed: 2023-04-14
-  author:
+- author:
   - family: Louf
     given: Thomas
   doi: 10.17605/OSF.IO/C86GE
@@ -158,9 +149,7 @@ references:
   publisher: OSF
   title: "[ses-ling]{.nocase}"
   type: webpage
-  url: "https://github.com/TLouf/ses-ling"
-- accessed: 2023-04-14
-  author:
+- author:
   - family: Louf
     given: Thomas
   doi: 10.17605/OSF.IO/AHM6J
@@ -170,9 +159,7 @@ references:
   publisher: OSF
   title: "[ses-ling-analytical]{.nocase}"
   type: webpage
-  url: "https://github.com/TLouf/ses-ling-analytical"
-- accessed: 2023-02-28
-  author:
+- author:
   - family: Louf
     given: Thomas
   doi: 10.6084/m9.figshare.14339321
@@ -180,9 +167,7 @@ references:
   issued: 2021
   publisher: figshare
   title: Spatial distributions of languages on Twitter
-  url: "https://figshare.com/articles/dataset/Spatial_distributions_of_languages_extracted_from_Twitter/14339321"
-- accessed: 2023-08-01
-  author:
+- author:
   - family: Louf
     given: Thomas
   - family: Ramasco
@@ -191,17 +176,22 @@ references:
     given: David
   - family: Karsai
     given: Márton
-  doi: 10.48550/arXiv.2307.10016
-  id: LoufWhenDialects2023
-  issued: 2023-07-19
-  status: pre-published
-  title: "When Dialects Collide: How Socioeconomic Mixing Affects
-    Language Use"
-  title-short: When Dialects Collide
-  type: webpage
-  url: "http://arxiv.org/abs/2307.10016"
-- accessed: 2023-02-28
-  author:
+  container-title: EPJ Data Science
+  container-title-short: EPJ Data Sci.
+  doi: 10.1140/epjds/s13688-025-00563-9
+  id: LoufWhenDialects2025
+  issn: 2193-1127
+  issue: 1, 1
+  issued: 2025-12
+  language: en-US
+  page: 1-21
+  publisher: SpringerOpen
+  title: "When dialects collide: How socioeconomic mixing affects
+    language use"
+  title-short: When dialects collide
+  type: article-journal
+  volume: 14
+- author:
   - family: Louf
     given: Thomas
   doi: 10.6084/m9.figshare.20630919.v1
@@ -212,9 +202,7 @@ references:
   title: Word counts per US county in geo-tagged Tweets posted between
     2015 and 2021
   type: dataset
-  url: "https://figshare.com/articles/dataset/Word_counts_per_US_county_in_geo-tagged_Tweets_posted_between_2015_and_2021/20630919"
-- accessed: 2023-02-28
-  author:
+- author:
   - family: Louf
     given: Thomas
   doi: 10.6084/m9.figshare.20627034.v1
@@ -223,9 +211,7 @@ references:
   page: 32265302 Bytes
   title: "[words-use]{.nocase}"
   type: webpage
-  url: "https://github.com/TLouf/words-use"
-- accessed: 2023-02-28
-  author:
+- author:
   - family: Louf
     given: Thomas
   doi: 10.6084/m9.figshare.20627034.v1
@@ -235,5 +221,4 @@ references:
   publisher: figshare
   title: "[words-use]{.nocase} figshare"
   type: software
-  url: "https://github.com/TLouf/words-use"
 
