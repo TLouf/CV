@@ -1,6 +1,6 @@
 #import "template.typ": *
 #set page(
-  margin: (left: 1.2cm, right: 1.2cm, top: 1.4cm, bottom: 1.4cm),
+  margin: (left: 1.2cm, right: 1.2cm, top: 1.2cm, bottom: 1.4cm),
 )
 #set text(12pt, font: "CMU Sans serif")
 
@@ -9,21 +9,22 @@
   outset: (x: 100pt, top: 100pt),
   inset: (y: -14pt)
 )[
+  #set par(leading: 0.2em)
   #table(
     columns: (37%, 28%, 25%),
     stroke: 0pt,
     inset: 0pt,
-    gutter: 5%,
+    gutter: 3%,
     align: horizon,
     table(
-      rows: (26pt, 6pt, 20pt),
+      rows: (24pt, 6pt, 36pt),
       stroke: 0pt,
       inset: 0pt,
-      gutter: 10pt,
+      gutter: 6pt,
       align: (center + bottom, center + horizon, center + top),
-      text(26pt, weight: "bold", fill: white)[Thomas Louf],
+      text(24pt, weight: "bold", fill: white)[Thomas Louf],
       line(length: 100%, stroke: (thickness: 3pt, paint: tertiary)),
-      text(20pt, weight: "bold", fill: white)[Postdoc researcher],
+      text(18pt, weight: "bold", fill: white)[Assistant prof. of applied maths],
     ),
     contact_cell[
       #text(12pt, fill: white)[
