@@ -221,4 +221,31 @@ references:
   publisher: figshare
   title: "[words-use]{.nocase} figshare"
   type: software
+- author:
+  - family: Orsanigo
+    given: Veronica
+  - family: Bontorin
+    given: Sebastiano
+  - family: Louf
+    given: Thomas
+  - family: Leonardelli
+    given: Elisa
+  - family: Palmero Aprosio
+    given: Alessio
+  - family: Sacco
+    given: Pierluigi
+  - family: Tonelli
+    given: Sara
+  - family: Gallotti
+    given: Riccardo
+  container-title: EPJ Data Science
+  container-title-short: EPJ Data Sci.
+  doi: 10.1140/epjds/s13688-025-00597-z
+  id: OrsanigoGeographyInterest2025
+  issn: 2193-1127
+  issued: 2025-11-25
+  language: en-US
+  title: The geography of interest in international conversations on
+    Twitter
+  type: article-journal
 
