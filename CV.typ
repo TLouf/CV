@@ -115,13 +115,12 @@ CEA Irfu, Saclay, France
 
 
 #cv_section("Publications")
-#v(-6em)
+
 #for work in yaml("me.yaml").at("references").sorted(
   key: w => str(w.at("issued", default: ""))
 ).rev() {
   if work.at("type", default: "misc") in ("chapter", "book", "article", "article-journal", "paper-conference") {
-    par(leading: 0pt)[
-    #text(0pt, fill: white)[#cite(label(work.id))]]
+    cite(label(work.id), form: none)
   }
 }
 #bibliography("me.bib", title: none, style: "nature")
